@@ -1,19 +1,27 @@
+<h1 align="center">Conrado Gracie</h1>
 
-<h1 align="center">Olá, eu sou o Conrado Gracie 👋</h1>
-
+<!-- Texto animado -->
 <p align="center">
-  🎓 Estudante de Ciência da Computação &nbsp;|&nbsp; 💼 Em busca de estágio/primeira oportunidade &nbsp;|&nbsp; 🇧🇷 São Paulo, Brasil
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=B794F6&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil+%F0%9F%91%8B;Estudando+C%2C+Python+e+JavaScript;Em+busca+do+primeiro+est%C3%A1gio+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
+  🎓 Ciência da Computação &nbsp;•&nbsp; 💼 Em busca de estágio &nbsp;•&nbsp; 🇧🇷 São Paulo, Brasil
+</p>
+
+<!-- Contatos -->
+<p align="center">
   <a href="https://www.linkedin.com/in/conrado-gracie-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1A1633?style=for-the-badge&logo=linkedin&logoColor=B794F6" />
+  </a>
+  <a href="mailto:estagio.cg89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1A1633?style=for-the-badge&logo=gmail&logoColor=B794F6" />
   </a>
   <a href="https://wa.me/5511959379286">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-1A1633?style=for-the-badge&logo=whatsapp&logoColor=B794F6" />
   </a>
   <a href="https://www.instagram.com/con.gracie_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-1A1633?style=for-the-badge&logo=instagram&logoColor=B794F6" />
   </a>
 </p>
 
@@ -29,16 +37,18 @@ Atualmente estou **em busca de uma oportunidade de estágio** para aplicar o que
 
 ## 💻 Tecnologias
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/C-1A1633?style=for-the-badge&logo=c&logoColor=B794F6" />
+  <img src="https://img.shields.io/badge/Python-1A1633?style=for-the-badge&logo=python&logoColor=B794F6" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1633?style=for-the-badge&logo=javascript&logoColor=B794F6" />
+  <img src="https://img.shields.io/badge/Git-1A1633?style=for-the-badge&logo=git&logoColor=B794F6" />
+  <img src="https://img.shields.io/badge/GitHub-1A1633?style=for-the-badge&logo=github&logoColor=B794F6" />
+</p>
 
 | Nível | Tecnologias |
 |-------|-------------|
-| 🟢 Base sólida | C, Python |
-| 🟡 Em evolução | JavaScript |
+| 🟣 Base sólida | C, Python |
+| 🟠 Em evolução | JavaScript |
 | 🔵 Interesse | Cibersegurança |
 
 ---
@@ -48,7 +58,7 @@ Atualmente estou **em busca de uma oportunidade de estágio** para aplicar o que
 - 🎓 **Ciência da Computação** (graduação em andamento)
 - 🔤 **Linguagem C**: Alura
 - 🐍 **Python** (Nano Courses): FIAP
-- 🌐 **JavaScript**: Alura (em andamento/pausado, pretendo retomar)
+- 🌐 **JavaScript**: Alura (pausado, pretendo retomar)
 - 🔐 **Introdução à Cibersegurança**: Cisco
 
 ---
@@ -66,8 +76,8 @@ Atualmente estou **em busca de uma oportunidade de estágio** para aplicar o que
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ProjetosGracie&show_icons=true&theme=tokyonight&count_private=true&icon_color=7AA2F7&title_color=7AA2F7" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosGracie&layout=compact&theme=tokyonight&title_color=7AA2F7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ProjetosGracie&show_icons=true&theme=tokyonight&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosGracie&layout=compact&theme=tokyonight&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&border_color=8B7AE5" />
 </p>
 
 ---
@@ -75,10 +85,6 @@ Atualmente estou **em busca de uma oportunidade de estágio** para aplicar o que
 ## 📫 Vamos conversar?
 
 Se você tem uma vaga, quer trocar uma ideia ou sugerir um projeto, me chama! Fico feliz em conversar. 😄
-
-📧 **estagio.cg89@gmail.com**
-
----
 
 <p align="center">
   ⭐ Gostou de algum projeto? Deixa uma estrela no repositório!
