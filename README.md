@@ -71,16 +71,62 @@ Atualmente estou **em busca de uma oportunidade de estágio** para aplicar o que
 - 🔐 Explorar mais a área de cibersegurança
 - 🤝 Aprender com pessoas e projetos reais
 
+----
+
+## 📂 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/ProjetosGracie/Desafios_Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjetosGracie&repo=Desafios_Python&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5" />
+  </a>
+  <a href="https://github.com/ProjetosGracie/Desafios_LinguagemC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjetosGracie&repo=Desafios_LinguagemC&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ProjetosGracie/SPRINT3_MLAM_2SEMESTRE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjetosGracie&repo=SPRINT3_MLAM_2SEMESTRE&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5" />
+  </a>
+  <a href="https://github.com/ProjetosGracie/CP1_SERS-2SEMESTRE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjetosGracie&repo=CP1_SERS-2SEMESTRE&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ProjetosGracie/CP1_CyberCore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjetosGracie&repo=CP1_CyberCore&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5" />
+  </a>
+  <a href="https://github.com/ProjetosGracie/SPRINT4_PYTHON_SERS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjetosGracie&repo=SPRINT4_PYTHON_SERS&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5" />
+  </a>
+</p>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ProjetosGracie&show_icons=true&theme=tokyonight&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&icon_color=FFB86C&border_color=8B7AE5&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosGracie&layout=compact&theme=tokyonight&bg_color=1A1633&title_color=B794F6&text_color=C9D8F0&border_color=8B7AE5" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ProjetosGracie&background=1A1633&ring=B794F6&fire=FFB86C&currStreakNum=C9D8F0&currStreakLabel=B794F6&sideNums=C9D8F0&sideLabels=B794F6&dates=8B7AE5&stroke=8B7AE5&border=8B7AE5" />
+</p>
+
 ---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProjetosGracie&bg_color=1A1633&color=B794F6&line=8B7AE5&point=FFB86C&area=true&area_color=8B7AE5&hide_border=true&title_color=B794F6" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProjetosGracie/ProjetosGracie/output/github-snake.svg" alt="Cobrinha comendo as contribuições" />
+</p>
+
+---
+
 
 ## 📫 Vamos conversar?
 
